@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+## NAME: MONISHA L
+## REG NO: 2305001019
 
 
 ## AIM: 
